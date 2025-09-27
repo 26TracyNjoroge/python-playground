@@ -19,9 +19,19 @@ A simple Python guessing game where players try to guess a randomly generated nu
 - Attempt counter  
 - Play again option  
 
-## How to Run  
+## How to Run 
+
+### Linux/Ubuntu:
 ```bash
+python3 number_guesser.py
+```
+### Windows:
+```cmd
 python number_guesser.py
+```
+### macOS:
+```bash
+python3 number_guesser.py
 ```
 
 ## Skills Practised
