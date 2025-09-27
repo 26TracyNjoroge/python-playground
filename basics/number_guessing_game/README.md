@@ -2,7 +2,6 @@
 
 A simple Python guessing game where players try to guess a randomly generated number within 1 - 15 range.  
 
----
 
 ## How to Play  
 - The computer randomly selects a number within the given range.  
@@ -13,8 +12,6 @@ A simple Python guessing game where players try to guess a randomly generated nu
   - `"You have guessed correctly!"` when you guess the right number  
 - Try to guess the number in as few attempts as possible!  
 
----
-
 ## Features  
 - Random number generation  
 - Input validation  
@@ -22,13 +19,10 @@ A simple Python guessing game where players try to guess a randomly generated nu
 - Attempt counter  
 - Play again option  
 
----
-
 ## How to Run  
 ```bash
 python number_guesser.py
 ```
----
 
 ## Skills Practised
 - Random number generation (random module)
@@ -37,8 +31,6 @@ python number_guesser.py
 - Loops (while loops)
 - Input validation
 - Basic game logic
-
----
 
 *Part of my Python practice projects collection*
 
