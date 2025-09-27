@@ -18,4 +18,4 @@ These projects help me strengthen the fundamentals I need for the training, whil
 - Functions  
 - Input/output  
 
-📂 *Part of my Python practice projects collection for Generative AI training.* 
+ *Part of my Python practice projects collection for Generative AI training.* 
