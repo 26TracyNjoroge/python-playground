@@ -15,5 +15,8 @@ Since Jac is built on top of Python, it is important to understand Python basics
 - Loops (`for`, `while`)  
 - Functions  
 - Input/output  
+- Local vs object attribute
+- `Self` for object memory
+- Parameters vs arguments
 
  *Part of my Python practice projects collection for Generative AI training.* 
