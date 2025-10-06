@@ -17,6 +17,7 @@ class Calculator:
 
 c = Calculator()
 c.add()
+c.add()
 c.subtract()
 print(c.get_result())
 
